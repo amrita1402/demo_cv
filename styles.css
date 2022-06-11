@@ -1,0 +1,21 @@
+/*using tag selector*/
+body{
+        background-color: #e3f1f1;
+}
+
+hr{
+        border-style: dotted none none ;
+        width: 5%;
+        border-width: 5px;
+        color: grey
+}
+
+h1{
+    color: #66BFBF;
+}
+h2{
+    color: #66BFBF;
+}
+h3{
+    color: #66BFBF;
+}
